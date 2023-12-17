@@ -31,9 +31,9 @@ const App = () => {
               <div className='text'>
                 <p>{book.description}</p>
               </div>
-            </div>
-            <div className="author">
-              <p>{book.authors.join(",")}</p>
+              <div className="author">
+                <p>{book.authors.join(",")}</p>
+              </div>
             </div>
           </div>
           
